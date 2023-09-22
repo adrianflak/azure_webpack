@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/scss/main.scss"],"names":[],"mappings":"AACA;EACI,UAFM;EAGN;AAAJ,C","file":"main.css","sourcesContent":["$zmienna: red;\r\n.klasa1 {\r\n    color: $zmienna;\r\n    font-size: 40px;\r\n}"],"sourceRoot":""}
